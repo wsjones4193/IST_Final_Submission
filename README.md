@@ -7,6 +7,7 @@ Coaches Assignment
 
 Superheroes Projects 
 – IST 687 & 
+
 – IST 718 (completed through milestone 2)
 
 NBA Player Stats Project 
