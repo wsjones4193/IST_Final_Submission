@@ -8,7 +8,7 @@ MS of Applied Data Science Portfolio Submission Documents
 
 - Documents for review: PowerBI for analytics created & word document for supporting analysis.
 
-**Superheroes Projects **
+**Superheroes Projects**
 
 – IST 687 & 
 
@@ -17,10 +17,10 @@ MS of Applied Data Science Portfolio Submission Documents
 
 – IST 718 (completed through milestone 2)
 
-**NBA Player Stats Project **
+**NBA Player Stats Project**
 
 – IST 652 
 
-**Covid-19 Disclosure Paper **
+**Covid-19 Disclosure Paper**
 
 – IST 618 
