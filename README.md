@@ -1,15 +1,21 @@
 # IST_Final_Submission
 
-MS of Applied Data Science Portfolio Submission Documents
+**MS of Applied Data Science Portfolio Submission Documents**
 
-**Coaches Assignment**
+Portfolio submission (word) includes professional and academic resume as well as written paper to evidence completion of the program learning objectives. 
+
+Presentation slide deck (PowerPoint or PDF) used in 10 minute presentation include as well.
+
+**Support Project Documents**
+
+Coaches Assignment
 
 – IST 718 
 
 - Documents for review: PowerBI for analytics created & Submission Doc (word) for supporting analysis.
 - Dataset provided from IST assignment and external sources. External sources referenced in Submission Doc but reviewing the Power BI wont require the source data files.
 
-**Superheroes Projects**
+Superheroes Projects
 
 – IST 687
 
@@ -21,7 +27,7 @@ MS of Applied Data Science Portfolio Submission Documents
 - Documents for review: Project Checkpoint #1 & #2 (word) and Superhero Analytics Power BI report.
 - Dataset provided but same as IST 687 project
 
-**NBA Player Stats Project**
+NBA Player Stats Project
 
 – IST 652 
 
@@ -29,7 +35,7 @@ MS of Applied Data Science Portfolio Submission Documents
 - Txt files are resulting documents from scripts generated at the time of the project. Not necessary for review.
 - Dataset created from "Player_List.csv" and then web scraping python script. 
 
-**Covid-19 Disclosure Paper**
+Covid-19 Disclosure Paper
 
 – IST 618 
 
