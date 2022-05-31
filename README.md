@@ -12,6 +12,9 @@ Superheroes Projects
 
 – IST 687 & 
 
+- Documents for review: PowerPoint for class presentation, Project Summary Doc (word) for analysis, and R Markdown for code.
+- dataset provided but also sourced from kaggle as noted in Project Summary Doc
+
 – IST 718 (completed through milestone 2)
 
 NBA Player Stats Project 
