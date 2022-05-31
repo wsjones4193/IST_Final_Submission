@@ -6,6 +6,8 @@ Coaches Assignment
 
 – IST 718 
 
+- Documents for review: PowerBI for analytics created & word document for supporting analysis.
+
 Superheroes Projects 
 
 – IST 687 & 
