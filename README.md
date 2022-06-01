@@ -39,4 +39,4 @@ Covid-19 Disclosure Paper.docx
 
 – IST 618 
 
-- Documents for review: Paper in word format. Professor was happy to accept the document in the conversational tone it was written in.
+- Documents for review: Paper in word format. 
