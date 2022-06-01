@@ -12,7 +12,7 @@ Coaches Assignment.zip
 
 – IST 718 
 
-- Documents for review: PowerBI for analytics created & Submission Doc (word) for supporting analysis.
+- Documents for review: PowerBI for analytics & Submission Doc (word) for supporting analysis.
 - Dataset provided from IST assignment and external sources. External sources referenced in Submission Doc but reviewing the Power BI wont require the source data files.
 
 Superheroes Projects.zip
